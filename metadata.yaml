@@ -1,0 +1,45 @@
+_repo: The-Frogs_7998
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aristophanes
+    aliases:
+    - Αριστοφάνης
+    - Ἀριστοφάνης
+    birthdate: -450
+    deathdate: -388
+    gutenberg_agent_id: '965'
+    url: http://www.gutenberg.org/2009/agents/965
+    wikipedia: http://en.wikipedia.org/wiki/Aristophanes
+description: Losing all faith in humanity, and their basest incarnation, the tragedians,
+  Dionysos, god of the theatre, vows to go to the underworld to revive the greatest
+  tragedian of all, the barely cold Euripides, who had died the year before. Enlisting
+  his servant Xanthias, and asking his half brother Herakles for directions, Dionysos
+  sets off to Hades' Halls, only to find Euripides engaged in a contest with Aeschylus,
+  as to who was the greatest of them all. Dionysos sets himself the task of judging
+  their weighty words, but more often than not these tragedians make him the butt
+  of their jokes. 'Frogs' is a wonderful mix of the living and the dead, of the tragic
+  and the comic.
+gutenberg_bookshelf:
+- Harvard Classics
+- Classical Antiquity
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7998'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristophanes -- Translations into English'
+- !lcsh 'Dionysus (Greek deity) -- Drama'
+- !lcsh 'Playwriting -- Drama'
+- !lcsh 'Dramatists -- Drama'
+- !lcsh 'Voyages to the otherworld -- Drama'
+- !lcc 'PA'
+- !lcsh 'Comedies'
+- !lcsh 'Greek drama (Comedy) -- Translations into English'
+- GITenberg
+title: The Frogs
+url: http://www.gutenberg.org/ebooks/7998

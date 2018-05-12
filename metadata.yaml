@@ -1,5 +1,8 @@
 _repo: The-Frogs_7998
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aristophanes
@@ -20,6 +23,8 @@ description: Losing all faith in humanity, and their basest incarnation, the tra
   their weighty words, but more often than not these tragedians make him the butt
   of their jokes. 'Frogs' is a wonderful mix of the living and the dead, of the tragic
   and the comic.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7998#The-Frogs
 gutenberg_bookshelf:
 - Harvard Classics
 - Classical Antiquity
